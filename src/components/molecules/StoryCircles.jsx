@@ -1,9 +1,8 @@
-import React, { useState, useEffect } from "react";
-import { cn } from "@/utils/cn";
+import React, { useState, useEffect } from 'react';
+import { cn } from '@/utils/cn';
 import { toast } from "react-toastify";
-import Avatar from "@/components/atoms/Avatar";
-import { userService } from "@/services/api/userService";
-
+import Avatar from '@/components/atoms/Avatar';
+import userService from '@/services/api/userService';
 function StoryCircles({ className }) {
   const [stories, setStories] = useState([]);
   const [loading, setLoading] = useState(true);
