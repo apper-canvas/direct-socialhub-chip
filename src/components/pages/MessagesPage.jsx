@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import ChatList from "@/components/organisms/ChatList";
 import ChatWindow from "@/components/organisms/ChatWindow";
-import ApperIcon from "@/components/atoms/ApperIcon";
+import ApperIcon from "@/components/ApperIcon";
 import { chatService } from "@/services/api/chatService";
 
 const MessagesPage = () => {
