@@ -1,5 +1,5 @@
 import { postService } from "./postService";
-import { userService } from "./userService";
+import userService from "./userService";
 
 // Simulated API delay
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
