@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import { cn } from "@/utils/cn";
 import { formatDistanceToNow } from "date-fns";
 import ApperIcon from "@/components/ApperIcon";
-import Avatar from "@/components/atoms/Avatar";
 import Button from "@/components/atoms/Button";
+import Avatar from "@/components/atoms/Avatar";
+import { cn } from "@/utils/cn";
 
 const PostCard = ({ post, currentUserId, onLike, onComment, className }) => {
   const [showComments, setShowComments] = useState(false);
@@ -108,11 +108,14 @@ const PostCard = ({ post, currentUserId, onLike, onComment, className }) => {
                   <p className="text-xs text-gray-500 mt-1 ml-3">{formatTime(comment.timestamp)}</p>
                 </div>
               </div>
-            ))}
+))}
 
-            {/* Add Comment */}
             <div className="flex items-center space-x-3 pt-2">
-              <Avatar src="/api/placeholder/32/32" alt="You" size="sm" />
+              <Avatar
+                src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTYiIGZpbGw9IiNFNUU3RUIiLz4KPHN2ZyB4PSI4IiB5PSI4IiB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+CjxwYXRoIGQ9Ik0yMCAyMXYtMmE0IDQgMCAwIDAtNC00SDhhNCA0IDAgMCAwLTQgNHYyIiBzdHJva2U9IiM5Q0E0QUYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxjaXJjbGUgY3g9IjEyIiBjeT0iOSIgcj0iNCIgc3Ryb2tlPSIjOUNBNEFGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4KPC9zdmc+"
+                alt="You" 
+                size="sm" 
+              />
               <div className="flex-1 flex items-center space-x-2">
                 <input
                   type="text"
