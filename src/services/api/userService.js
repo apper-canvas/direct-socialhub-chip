@@ -1,6 +1,4 @@
 import usersData from "@/services/mockData/users.json";
-import React from "react";
-import Error from "@/components/ui/Error";
 
 // Mock story data - in a real app this would be a separate service
 const mockStoryData = [
@@ -126,4 +124,4 @@ this.users[userIndex] = {
   }
 }
 
-export default UserService;
+export default new UserService();
