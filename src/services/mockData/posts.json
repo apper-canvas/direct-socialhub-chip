@@ -1,0 +1,128 @@
+[
+  {
+    "Id": 1,
+    "authorId": "2",
+    "content": "Just finished an amazing hike in the mountains! The view from the top was absolutely breathtaking. Sometimes you need to disconnect from technology and reconnect with nature. 🏔️ #hiking #nature #adventure",
+    "imageUrl": "/api/placeholder/600/400?text=Mountain+View",
+    "likes": ["1", "4", "6", "8", "10"],
+    "comments": [
+      {
+        "id": "c1",
+        "authorId": "1",
+        "content": "Wow! That looks incredible. I need to plan a hiking trip soon.",
+        "timestamp": "2024-12-19T10:30:00Z"
+      },
+      {
+        "id": "c2",
+        "authorId": "4",
+        "content": "Which trail did you take? I've been looking for new routes to explore!",
+        "timestamp": "2024-12-19T11:15:00Z"
+      }
+    ],
+    "timestamp": "2024-12-19T09:00:00Z"
+  },
+  {
+    "Id": 2,
+    "authorId": "4",
+    "content": "Discovered this hidden gem of a coffee shop downtown! 'Bean There' has the most amazing espresso and the coziest atmosphere. Perfect for a quiet afternoon with a good book. ☕📚 #coffee #reading #cozy",
+    "imageUrl": "/api/placeholder/600/400?text=Coffee+Shop",
+    "likes": ["1", "2", "6"],
+    "comments": [
+      {
+        "id": "c3",
+        "authorId": "2",
+        "content": "I love discovering new coffee spots! Adding this to my list.",
+        "timestamp": "2024-12-19T08:45:00Z"
+      }
+    ],
+    "timestamp": "2024-12-19T08:00:00Z"
+  },
+  {
+    "Id": 3,
+    "authorId": "10",
+    "content": "Greetings from Tokyo! 🇯🇵 Just arrived and already fell in love with this incredible city. The energy here is unlike anywhere else. Can't wait to explore every corner, try authentic ramen, and visit the temples. This trip is going to be unforgettable! ✈️🏯",
+    "imageUrl": "/api/placeholder/600/400?text=Tokyo+Skyline",
+    "likes": ["1", "2", "4", "6", "8"],
+    "comments": [
+      {
+        "id": "c4",
+        "authorId": "1",
+        "content": "So jealous! Tokyo is on my bucket list. Have an amazing time!",
+        "timestamp": "2024-12-19T09:30:00Z"
+      },
+      {
+        "id": "c5",
+        "authorId": "6",
+        "content": "Make sure to visit the Senso-ji temple! It's absolutely beautiful.",
+        "timestamp": "2024-12-19T10:00:00Z"
+      },
+      {
+        "id": "c6",
+        "authorId": "8",
+        "content": "The food there is incredible! Try the ramen in Shibuya.",
+        "timestamp": "2024-12-19T10:30:00Z"
+      }
+    ],
+    "timestamp": "2024-12-19T07:30:00Z"
+  },
+  {
+    "Id": 4,
+    "authorId": "8",
+    "content": "Max had his first professional photoshoot today! 📸🐕 This little guy is such a natural in front of the camera. Who knew my golden retriever had such modeling potential? He even posed on command! #dogsofinstagram #goldenretriever #photoshoot",
+    "imageUrl": "/api/placeholder/600/400?text=Dog+Photoshoot",
+    "likes": ["1", "2", "4", "6"],
+    "comments": [
+      {
+        "id": "c7",
+        "authorId": "2",
+        "content": "Max is absolutely adorable! He should definitely be a model.",
+        "timestamp": "2024-12-18T16:45:00Z"
+      },
+      {
+        "id": "c8",
+        "authorId": "1",
+        "content": "What a handsome boy! Those eyes are so expressive.",
+        "timestamp": "2024-12-18T17:00:00Z"
+      }
+    ],
+    "timestamp": "2024-12-18T15:30:00Z"
+  },
+  {
+    "Id": 5,
+    "authorId": "6",
+    "content": "Just finished reading 'The Seven Husbands of Evelyn Hugo' and I'm completely speechless! 📚✨ This book had me laughing, crying, and staying up way too late because I couldn't put it down. If you're looking for your next read, this is it! #bookstagram #reading #bookrecommendation",
+    "imageUrl": "/api/placeholder/600/400?text=Book+Collection",
+    "likes": ["1", "4", "10"],
+    "comments": [
+      {
+        "id": "c9",
+        "authorId": "4",
+        "content": "I've heard so many good things about this book! Adding it to my reading list.",
+        "timestamp": "2024-12-18T14:20:00Z"
+      }
+    ],
+    "timestamp": "2024-12-18T13:00:00Z"
+  },
+  {
+    "Id": 6,
+    "authorId": "9",
+    "content": "Spent the entire weekend in the studio working on a new track! 🎵🎧 There's something magical about creating music - when all the elements come together perfectly, it gives me chills every time. This one's going to be special. Can't wait to share it with you all soon! #music #producer #newtrack",
+    "imageUrl": "/api/placeholder/600/400?text=Music+Studio",
+    "likes": ["1", "2", "4", "8"],
+    "comments": [
+      {
+        "id": "c10",
+        "authorId": "1",
+        "content": "Can't wait to hear it! Your last track was amazing.",
+        "timestamp": "2024-12-18T12:30:00Z"
+      },
+      {
+        "id": "c11",
+        "authorId": "2",
+        "content": "The creative process is so fascinating. Hope you share some behind-the-scenes!",
+        "timestamp": "2024-12-18T13:00:00Z"
+      }
+    ],
+    "timestamp": "2024-12-18T11:45:00Z"
+  }
+]

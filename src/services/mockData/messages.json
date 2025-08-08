@@ -1,0 +1,227 @@
+[
+  {
+    "Id": 1,
+    "chatId": 1,
+    "senderId": "1",
+    "content": "Hey Sarah! How was your weekend?",
+    "timestamp": "2024-12-19T09:00:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 2,
+    "chatId": 1,
+    "senderId": "2",
+    "content": "It was amazing! Went hiking with friends. The weather was perfect ☀️",
+    "timestamp": "2024-12-19T09:15:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 3,
+    "chatId": 1,
+    "senderId": "1",
+    "content": "That sounds awesome! I should join you next time.",
+    "timestamp": "2024-12-19T09:20:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 4,
+    "chatId": 1,
+    "senderId": "2",
+    "content": "Definitely! We're planning another trip next month.",
+    "timestamp": "2024-12-19T09:25:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 5,
+    "chatId": 1,
+    "senderId": "1",
+    "content": "Count me in! 🏔️",
+    "timestamp": "2024-12-19T09:30:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 6,
+    "chatId": 1,
+    "senderId": "2",
+    "content": "Perfect! I'll add you to the group chat.",
+    "timestamp": "2024-12-19T11:40:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 7,
+    "chatId": 1,
+    "senderId": "2",
+    "content": "Let's grab lunch tomorrow!",
+    "timestamp": "2024-12-19T11:45:00Z",
+    "isRead": false,
+    "type": "text"
+  },
+  {
+    "Id": 8,
+    "chatId": 2,
+    "senderId": "4",
+    "content": "Hey! I found this amazing coffee shop downtown. You should try it!",
+    "timestamp": "2024-12-19T10:30:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 9,
+    "chatId": 2,
+    "senderId": "1",
+    "content": "Oh nice! What's it called?",
+    "timestamp": "2024-12-19T10:35:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 10,
+    "chatId": 2,
+    "senderId": "4",
+    "content": "It's called 'Bean There' - they have the best espresso in town! ☕",
+    "timestamp": "2024-12-19T10:40:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 11,
+    "chatId": 2,
+    "senderId": "1",
+    "content": "I'll check it out this weekend. Thanks for the recommendation!",
+    "timestamp": "2024-12-19T11:30:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 12,
+    "chatId": 3,
+    "senderId": "6",
+    "content": "Just finished reading 'The Silent Patient'. Mind blown! 🤯",
+    "timestamp": "2024-12-19T09:00:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 13,
+    "chatId": 3,
+    "senderId": "1",
+    "content": "I've heard great things about that book! Without spoilers, would you recommend it?",
+    "timestamp": "2024-12-19T09:30:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 14,
+    "chatId": 3,
+    "senderId": "6",
+    "content": "Absolutely! It's a psychological thriller that keeps you guessing until the very end.",
+    "timestamp": "2024-12-19T09:45:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 15,
+    "chatId": 3,
+    "senderId": "6",
+    "content": "Have you read the new book by Stephen King?",
+    "timestamp": "2024-12-19T10:15:00Z",
+    "isRead": false,
+    "type": "text"
+  },
+  {
+    "Id": 16,
+    "chatId": 4,
+    "senderId": "8",
+    "content": "Look at this adorable photo of Max! 📸",
+    "timestamp": "2024-12-19T08:00:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 17,
+    "chatId": 4,
+    "senderId": "1",
+    "content": "Aww! Max is getting so big. How old is he now?",
+    "timestamp": "2024-12-19T08:30:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 18,
+    "chatId": 4,
+    "senderId": "8",
+    "content": "He just turned 2! Still acts like a puppy though 😅",
+    "timestamp": "2024-12-19T09:00:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 19,
+    "chatId": 4,
+    "senderId": "1",
+    "content": "Your dog is so cute! 🐕",
+    "timestamp": "2024-12-19T09:45:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 20,
+    "chatId": 5,
+    "senderId": "10",
+    "content": "Boarding my flight to Tokyo now! So excited! ✈️",
+    "timestamp": "2024-12-19T06:00:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 21,
+    "chatId": 5,
+    "senderId": "1",
+    "content": "Have an amazing trip! Can't wait to see your photos.",
+    "timestamp": "2024-12-19T06:15:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 22,
+    "chatId": 5,
+    "senderId": "10",
+    "content": "Just landed in Tokyo! The view is amazing ✈️",
+    "timestamp": "2024-12-19T08:30:00Z",
+    "isRead": false,
+    "type": "text"
+  },
+  {
+    "Id": 23,
+    "chatId": 6,
+    "senderId": "3",
+    "content": "Finally set up my home office! It took forever but it's worth it.",
+    "timestamp": "2024-12-18T14:00:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 24,
+    "chatId": 6,
+    "senderId": "1",
+    "content": "That's great! Working from home has its perks.",
+    "timestamp": "2024-12-18T15:30:00Z",
+    "isRead": true,
+    "type": "text"
+  },
+  {
+    "Id": 25,
+    "chatId": 6,
+    "senderId": "1",
+    "content": "How's the home office setup going?",
+    "timestamp": "2024-12-18T16:20:00Z",
+    "isRead": true,
+    "type": "text"
+  }
+]

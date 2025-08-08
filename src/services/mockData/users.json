@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "name": "You",
+    "avatar": "/api/placeholder/64/64",
+    "status": "Available for chat",
+    "lastSeen": "2024-12-19T12:00:00Z",
+    "isOnline": true
+  },
+  {
+    "Id": 2,
+    "name": "Sarah Johnson",
+    "avatar": "/api/placeholder/64/64?text=SJ",
+    "status": "Love life and live fully ❤️",
+    "lastSeen": "2024-12-19T11:45:00Z",
+    "isOnline": true
+  },
+  {
+    "Id": 3,
+    "name": "Mike Chen",
+    "avatar": "/api/placeholder/64/64?text=MC",
+    "status": "Working from home today",
+    "lastSeen": "2024-12-19T10:30:00Z",
+    "isOnline": false
+  },
+  {
+    "Id": 4,
+    "name": "Emily Rodriguez",
+    "avatar": "/api/placeholder/64/64?text=ER",
+    "status": "Coffee enthusiast ☕",
+    "lastSeen": "2024-12-19T11:55:00Z",
+    "isOnline": true
+  },
+  {
+    "Id": 5,
+    "name": "David Kim",
+    "avatar": "/api/placeholder/64/64?text=DK",
+    "status": "Adventure seeker 🏔️",
+    "lastSeen": "2024-12-19T09:15:00Z",
+    "isOnline": false
+  },
+  {
+    "Id": 6,
+    "name": "Lisa Thompson",
+    "avatar": "/api/placeholder/64/64?text=LT",
+    "status": "Reading a good book 📚",
+    "lastSeen": "2024-12-19T11:20:00Z",
+    "isOnline": true
+  },
+  {
+    "Id": 7,
+    "name": "Alex Morgan",
+    "avatar": "/api/placeholder/64/64?text=AM",
+    "status": "Gym time! 💪",
+    "lastSeen": "2024-12-19T08:45:00Z",
+    "isOnline": false
+  },
+  {
+    "Id": 8,
+    "name": "Jessica Williams",
+    "avatar": "/api/placeholder/64/64?text=JW",
+    "status": "Dog lover 🐕",
+    "lastSeen": "2024-12-19T11:40:00Z",
+    "isOnline": true
+  },
+  {
+    "Id": 9,
+    "name": "Ryan Davis",
+    "avatar": "/api/placeholder/64/64?text=RD",
+    "status": "Music producer 🎵",
+    "lastSeen": "2024-12-19T10:10:00Z",
+    "isOnline": false
+  },
+  {
+    "Id": 10,
+    "name": "Amanda Foster",
+    "avatar": "/api/placeholder/64/64?text=AF",
+    "status": "Travel is my therapy ✈️",
+    "lastSeen": "2024-12-19T11:30:00Z",
+    "isOnline": true
+  }
+]
