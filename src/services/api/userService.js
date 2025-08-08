@@ -126,4 +126,4 @@ this.users[userIndex] = {
   }
 }
 
-export default new UserService();
+export default UserService;
