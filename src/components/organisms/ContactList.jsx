@@ -6,9 +6,10 @@ import ContactItem from "@/components/molecules/ContactItem";
 import Loading from "@/components/ui/Loading";
 import Error from "@/components/ui/Error";
 import Empty from "@/components/ui/Empty";
-import { userService } from "@/services/api/userService";
+import UserService from "@/services/api/userService";
 import { chatService } from "@/services/api/chatService";
 
+const userService = new UserService();
 const ContactList = ({ onStartChat, className }) => {
   const [contacts, setContacts] = useState([]);
   const [loading, setLoading] = useState(true);
