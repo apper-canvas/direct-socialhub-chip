@@ -1,6 +1,5 @@
 import postsData from "@/services/mockData/posts.json";
-import { userService } from "./userService";
-
+import userService from "./userService";
 // Simulated API delay
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
